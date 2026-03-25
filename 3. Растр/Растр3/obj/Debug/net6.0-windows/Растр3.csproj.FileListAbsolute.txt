@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\obj\Debug\net6.0-windows\Растр3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\obj\Debug\net6.0-windows\Растр3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\obj\Debug\net6.0-windows\Растр3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\obj\Debug\net6.0-windows\Растр3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\obj\Debug\net6.0-windows\Растр3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\bin\Debug\net6.0-windows\Растр3.exe
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\bin\Debug\net6.0-windows\Растр3.deps.json
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\bin\Debug\net6.0-windows\Растр3.runtimeconfig.json
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\bin\Debug\net6.0-windows\Растр3.dll
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\bin\Debug\net6.0-windows\ref\Растр3.dll
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\bin\Debug\net6.0-windows\Растр3.pdb
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\obj\Debug\net6.0-windows\Растр3.dll
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\obj\Debug\net6.0-windows\ref\Растр3.dll
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\obj\Debug\net6.0-windows\Растр3.pdb
+C:\Users\Admin\Desktop\popitka\Растр3\Растр3\obj\Debug\net6.0-windows\Растр3.genruntimeconfig.cache
