@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\bin\Debug\net6.0-windows\Пупиксель2.exe
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\bin\Debug\net6.0-windows\Пупиксель2.deps.json
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\bin\Debug\net6.0-windows\Пупиксель2.runtimeconfig.json
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\bin\Debug\net6.0-windows\Пупиксель2.dll
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\bin\Debug\net6.0-windows\ref\Пупиксель2.dll
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\bin\Debug\net6.0-windows\Пупиксель2.pdb
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\obj\Debug\net6.0-windows\Пупиксель2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\obj\Debug\net6.0-windows\Пупиксель2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\obj\Debug\net6.0-windows\Пупиксель2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\obj\Debug\net6.0-windows\Пупиксель2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\obj\Debug\net6.0-windows\Пупиксель2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\obj\Debug\net6.0-windows\Пупиксель2.dll
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\obj\Debug\net6.0-windows\ref\Пупиксель2.dll
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\obj\Debug\net6.0-windows\Пупиксель2.pdb
+C:\Users\Admin\Desktop\popitka\Пупиксель2\Пупиксель2\obj\Debug\net6.0-windows\Пупиксель2.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\bin\Debug\пиксель1.exe.config
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\bin\Debug\пиксель1.exe
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\bin\Debug\пиксель1.pdb
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\obj\Debug\пиксель1.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\obj\Debug\пиксель1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\obj\Debug\пиксель1.Form1.resources
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\obj\Debug\пиксель1.Properties.Resources.resources
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\obj\Debug\пиксель1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\obj\Debug\пиксель1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\obj\Debug\пиксель1.exe
+C:\Users\Admin\Desktop\popitka\пиксель1\пиксель1\obj\Debug\пиксель1.pdb
