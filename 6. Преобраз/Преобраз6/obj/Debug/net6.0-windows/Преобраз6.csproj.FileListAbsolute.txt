@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.exe
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.deps.json
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.runtimeconfig.json
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.dll
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\bin\Debug\net6.0-windows\ref\Преобраз6.dll
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.pdb
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.dll
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\obj\Debug\net6.0-windows\ref\Преобраз6.dll
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.pdb
+C:\Users\Admin\Desktop\popitka\Преобраз6\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.exe
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.deps.json
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.runtimeconfig.json
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.dll
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\bin\Debug\net6.0-windows\ref\Преобраз6.dll
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\bin\Debug\net6.0-windows\Преобраз6.pdb
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.dll
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\obj\Debug\net6.0-windows\ref\Преобраз6.dll
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.pdb
+C:\Users\Admin\Desktop\ШАРАГА\Комп графика\popitka\6. Преобраз\Преобраз6\obj\Debug\net6.0-windows\Преобраз6.genruntimeconfig.cache

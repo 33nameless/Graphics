@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\bin\Debug\net6.0-windows\Преобраз5.exe
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\bin\Debug\net6.0-windows\Преобраз5.deps.json
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\bin\Debug\net6.0-windows\Преобраз5.runtimeconfig.json
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\bin\Debug\net6.0-windows\Преобраз5.dll
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\bin\Debug\net6.0-windows\ref\Преобраз5.dll
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\bin\Debug\net6.0-windows\Преобраз5.pdb
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\obj\Debug\net6.0-windows\Преобраз5.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\obj\Debug\net6.0-windows\Преобраз5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\obj\Debug\net6.0-windows\Преобраз5.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\obj\Debug\net6.0-windows\Преобраз5.AssemblyInfo.cs
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\obj\Debug\net6.0-windows\Преобраз5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\obj\Debug\net6.0-windows\Преобраз5.dll
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\obj\Debug\net6.0-windows\ref\Преобраз5.dll
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\obj\Debug\net6.0-windows\Преобраз5.pdb
+C:\Users\Admin\Desktop\popitka\Преобраз5\Преобраз5\obj\Debug\net6.0-windows\Преобраз5.genruntimeconfig.cache
